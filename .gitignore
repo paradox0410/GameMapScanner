@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime screenshots
+screenshots/
+scan_screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
