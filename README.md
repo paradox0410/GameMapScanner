@@ -84,7 +84,9 @@ GameMapScanner/
 
 ## 📷 程序界面
 
-GUI screenshot will be added here.
+下图展示了程序通过 ADB 连接 Android 模拟器并获取实时游戏画面的运行界面：
+
+![GameMapScanner GUI](screenshot.png)
 
 ## 📝 当前版本
 
